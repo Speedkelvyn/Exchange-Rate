@@ -1,13 +1,13 @@
 # Exchange Rate Forecasting
 
-[![CI](https://github.com/Speedkelvyn/Exchange-Rate-/actions/workflows/ci.yml/badge.svg)](https://github.com/Speedkelvyn/Exchange-Rate-/actions/workflows/ci.yml)
+[![CI](https://github.com/Speedkelvyn/Exchange-Rate/actions/workflows/ci.yml/badge.svg)](https://github.com/Speedkelvyn/Exchange-Rate/actions/workflows/ci.yml)
 
 Can models beat the random walk in exchange rates? Two out-of-sample studies, built so that every forecast uses only information available at the time:
 
 1. **Daily USD/JPY:** AR(1)-GARCH(1,1) against a random walk, for returns and for volatility.
 2. **Monthly panel of six currencies (EUR, GBP, JPY, CHF, CAD, AUD vs USD):** Elastic Net, a deep neural network and their ensemble, using interest-rate, inflation and unemployment differentials interacted with global risk (VIX, geopolitical risk, policy uncertainty), following Filippou et al. (2020).
 
-**Read the report:** https://speedkelvyn.github.io/Exchange-Rate-/
+**Read the report:** https://speedkelvyn.github.io/Exchange-Rate/
 
 ## Findings
 
