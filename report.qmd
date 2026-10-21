@@ -1,6 +1,7 @@
 ---
 title: "Can Models Beat the Random Walk in Exchange Rates?"
 subtitle: "A daily volatility benchmark and a monthly macro-risk panel, 1999–2025"
+description-meta: "Can machine learning beat the random walk in exchange rates? Out-of-sample GARCH, Elastic Net and neural-network forecasts for six currencies; gains appear only in high-risk months."
 author: "Kelvin Afful"
 date: last-modified
 date-format: "D MMMM YYYY"
